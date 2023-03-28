@@ -62,8 +62,8 @@ Display all the images with their respective filters.
 
 ## Program:
 ```
-Developed By   : KAYALVIZHI M
-Register Number: 212220230024
+Developed By   : THAMARAI SELVAN  
+Register Number: 212220230115
 ```
 ```python
 import cv2
